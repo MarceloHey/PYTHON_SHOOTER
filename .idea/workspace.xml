@@ -5,17 +5,22 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a2e71eee-958d-4cd8-a20f-84f1900fbb40" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/PYTHON_SHOOTER.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/menu.wav" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/menu_bg.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code/Constants.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code/GAME.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code/Menu.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/lv1_bg1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/lv1_bg2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/lv1_bg3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/lv1_bg4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/lv1_bg5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/lv1_bg6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/lv1_bg7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Background.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Entity.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/EntityFactory.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Level.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/Constants.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/Constants.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/GAME.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/Game.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/Menu.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/Menu.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,12 +52,17 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "/home/hey/Documentos/FACUL/LP-APLICADA/PYTHON_SHOOTER/assets"
+    "last_opened_file_path": "/home/hey/Documentos/FACUL/LP-APLICADA/PYTHON_SHOOTER/assets/level1"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/assets/level1" />
       <recent name="$PROJECT_DIR$/assets" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/assets" />
+      <recent name="$PROJECT_DIR$/assets/level1/bg" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
